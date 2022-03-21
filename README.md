@@ -1,3 +1,17 @@
 # Inclusive-Speak
 
-<h1>Inclusivity</h1>
+<table> 
+<thead> 
+	<tr> 
+		<td> Say </td>
+		<td> Don't say </td>
+	</tr>
+</thead>
+
+<tbody> 
+
+
+</tbody>
+
+
+</table>
