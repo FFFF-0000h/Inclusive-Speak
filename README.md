@@ -17,7 +17,7 @@ Inclusive language respects and promotes all people as valued members of society
 	</tr>
 
 	<tr>
-		<td> Engineer. A woman who is on our engineering team.</td>
+		<td> A woman who is on our engineering team </td>
 		<td> Female Engineer</td>
 	</tr>
 </tbody>
