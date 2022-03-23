@@ -9,7 +9,7 @@ Inclusive language respects and promotes all people as valued members of society
 		<td> Don't say </td>
 	</tr>
 </thead>
-7
+
 <tbody> 
 	<tr>
 		<td> Folks. People. All</td>
