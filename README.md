@@ -9,11 +9,16 @@ Inclusive language respects and promotes all people as valued members of society
 		<td> Don't say </td>
 	</tr>
 </thead>
-
+7
 <tbody> 
 	<tr>
-		<td> Folks, people, all</td>
-		<td> Guys, women, men</td>
+		<td> Folks. People. All</td>
+		<td> Guys. Women. Men</td>
+	</tr>
+
+	<tr>
+		<td> Engineer. A woman who is on our engineering team.</td>
+		<td> Female Engineer</td>
 	</tr>
 </tbody>
 
