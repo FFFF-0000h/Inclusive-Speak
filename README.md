@@ -4,25 +4,19 @@ Inclusive language respects and promotes all people as valued members of society
 </p>
 
 <table> 
-<thead> 
 	<tr> 
-		<td> Say </td>
-		<td> Don't say </td>
+		<th> Say </th>
+		<th> Don't say </th>
 	</tr>
-</thead>
 
-<tbody> 
 	<tr>
-		<td> Folks. People. All</td>
-		<td> Guys. Women. Men</td>
+		<td> Folks. People. All </td>
+		<td> Guys. Women. Men </td>
 	</tr>
 
 	<tr>
 		<td> A woman who is on our engineering team </td>
 		<td> Female Engineer </td>
 	</tr>
-</tbody>
-<tfooter>
-</tfooter>
 
 </table>
